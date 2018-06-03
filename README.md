@@ -3,11 +3,11 @@ All Courseworks for Tsinghua Univ Pattern Recognition 2018
 
 
 ## Repository Description:
-This repository contains all courseworks for Pattern-Recognition-Course in Spring Term 2018 at Tsinghua University.
-Each coursework folder includes a code folder, tex folder and a pdf or ppt which is the requirements of this course-work.
+This repository contains all courseworks for Pattern-Recognition-Course in Spring Term 2018 on Tsinghua University.
+Each coursework folder includes a code folder, a tex folder and a pdf or ppt which is the requirements of this course-work.
 
 ### code folder
-All the code is implemented using Python, due to its readability and some excellent packages, such as python
+All the code is implemented using Python due to its readability and some excellent packages, such as python
 -opencv,numpy,scikit-learn and so on.
 
 ### tex folder
